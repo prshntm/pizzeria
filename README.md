@@ -10,3 +10,5 @@ Go to Custom pizza tab to make your own pizza based on your preferences.
 Go to Menu to watch the full list of products.
 Go to About pizzeria tab to learn more about pizzeria itself.
 Features for verifying your e-mail after signing up and recieving an e-mail about order details is not implemented in this moment.
+
+Databade .mdf file is stored in ...\WebPizza\App_Data\
