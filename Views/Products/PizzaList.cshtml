@@ -1,0 +1,33 @@
+﻿@using WebPizza.Models
+@model WebPizza.Models.ProductsListViewModel
+@using WebPizza.HtmlHelpers
+@{
+    ViewBag.Title = "PizzaList";
+}
+
+<h2>Пицца</h2>
+<div class="row panel">
+    <div id="genres" class="col-xs-3">
+    </div>
+    <div class="col-xs-8">
+        @foreach (var prod in Model.Product)
+        {
+            if(prod.Category == "Pizza")
+            { 
+        <div>
+            <h3>@prod.ProductName</h3>
+            <p>@prod.About</p>
+            <h4>@prod.ProductPrice.ToString("# rub")</h4>
+            <button name='add' type='submit' value='{3}'>
+                Add to cart
+            </button>
+        </div>
+            }
+            
+        }
+
+    </div>
+</div>
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("PizzaList", new { page = x, category = Model.CurrentCategory }))
+</div>

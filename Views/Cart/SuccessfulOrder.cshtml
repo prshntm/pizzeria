@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "SuccessfulOrder";
+}
+
+<h2>Заказ успешно оформлен!</h2>
+<h3>Для уточнения адреса и способа оплаты с Вами свяжется оператор по телефону</h3>
+<div>
+    @Html.ActionLink("Мои заказы", "Orders", "Cart", null, new { @class = "btn btn-primary"})
+</div>
+

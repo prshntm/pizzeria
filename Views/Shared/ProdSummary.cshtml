@@ -1,0 +1,31 @@
+﻿@model WebPizza.Models.Products
+<div class="well">
+    <div class="row">
+        <div class="col-xs-10">
+            <img src="@Model.ProductPicture"
+                 style="width: 150px;height: 150px;">
+        </div>
+
+        <div class="col-xs-2">
+
+            <h3>
+                <strong class="pull-right label label-primary">
+                    @Model.ProductPrice.ToString("# руб")
+                </strong>
+            </h3>
+            @using (Html.BeginForm("AddToCart", "Cart", new { prodId = Model.ProductID }))
+            {
+                <div class="pull-right">
+                    @Html.HiddenFor(x => x.ProductID)
+                    @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                    <input type="submit" class="btn btn-success" value="Add to cart" />
+                </div>
+            }
+        </div>
+    </div>
+    <h3>
+        <strong>@Model.ProductName</strong>
+    </h3>
+    <span class="lead">@Model.About</span>
+</div>
+

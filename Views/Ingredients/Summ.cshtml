@@ -1,0 +1,17 @@
+﻿@model WebPizza.Models.Ingredients
+<div id="makePizzaRow">
+    <span>@Model.IngredientName</span>
+    <span class="pull-right">
+        <strong class="label label-primary price">
+            @Model.IngredientPrice.ToString("# руб")
+        </strong>
+    </span>
+    @using (Html.BeginForm("AddToCart", "PizzaConstructor", new { ingId = Model.IngredientID }))
+    {
+        <div class="pull-right">
+            @Html.HiddenFor(x => x.IngredientID)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            <input type="submit" class="btn btn-success" value="+" />
+        </div>
+    }
+</div>

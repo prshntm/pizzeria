@@ -1,0 +1,45 @@
+﻿@model IEnumerable<PizzaOnline.Models.CustomPizza>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomPizzaID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomPizzaID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PizzaID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PizzaID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PizzaID })
+        </td>
+    </tr>
+}
+
+</table>

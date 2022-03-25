@@ -1,0 +1,86 @@
+﻿body {
+    padding-top: 65px;
+    padding-bottom: 20px;
+    background-image: url(/Content/PizzaBack.jpg);
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.jumbotron a, .col-md-4 a, .btn {
+    background-color: darkseagreen;
+    color: azure;
+}
+
+    .jumbotron a:hover, .col-md-4 a:hover, .btn:hover {
+        background-color: seagreen;
+        color: white;
+    }
+
+.form-horizontal {
+    max-width: 450px;
+    margin: auto;
+}
+
+    .form-horizontal h2, .form-horizontal h4, .form-horizontal h5 {
+        width: 400px;
+        margin: auto;
+    }
+
+.form-control {
+    width: 250px;
+    margin: auto;
+}
+
+.logo {
+    block-size: 75px;
+}
+
+.col-md-4, .form-horizontal, h2, footer, .jumbotron, .navbar-fixed-top {
+    background-color: white;
+}
+
+footer, h2 {
+    max-width: 400px;
+}
+
+.PH {
+    block-size: 400px;
+}
+
+li:hover {
+    background-color: darkseagreen;
+}
+
+.col-md-4 {
+    max-width: 333px;
+    margin: auto;
+}
+
+.row, .jumbotron {
+    max-width: 999px;
+    margin: auto;
+}
+
+.col-sm-3
+{
+
+}

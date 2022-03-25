@@ -1,0 +1,96 @@
+﻿@model WebPizza.Models.IngredientsListViewModel
+
+@{
+    ViewBag.Title = "PizzaConstructor";
+}
+
+    <div class="row panel">
+
+        <!--<div id="genres" class="col-xs-3">
+            @@Html.Action("Menu", "Categories")
+        </div>-->
+        <h1 style="text-align:center;">Custom pizza constructor</h1>
+        <div class="col-xs-9">
+            <div class="container row">
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Vegetables")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Seafood")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Meat")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Cheese")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Fruits")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Mushroom")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+                <div class="col-sm-4">
+                    @foreach (var ingredient in Model.Ingredients)
+                    {
+                        if (ingredient.IngredientCategory == "Sauce")
+                        {
+                            @Html.Partial("Summa", ingredient)
+                        }
+
+                    }
+                </div>
+            </div>
+            <div id="TableCont">
+                @Html.Action("PizzaConstructorView", "CustomPizza")
+            </div>
+            <script>
+                $("#TableCont").hide();
+                $("#TableCont > .container").removeClass("container");
+                $("#TableCont").show("slow");
+            </script>
+        </div>
+    </div>
+

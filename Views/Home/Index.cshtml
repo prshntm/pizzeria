@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Pizzeria BellissimoPizza</h1>
+    <p class="lead">You can order pizza for every taste. If you don't find anything you like, you can order your custom pizza! There are more than 30 ingredients for pineapples to mussels.</p>
+</div>
+<br/>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Our menu</h2>
+        <p>
+            Pizza, drinks,
+            desserts, hot starters.
+        </p>
+        <p><a class="btn btn-default" onclick='window.location = "@Url.Action("List", "Products") ";'>Menu &raquo;</a></p>
+        <br />
+    </div>
+    <div class="col-md-4">
+        <h2>Custom pizza</h2>
+        <p>
+            Make your own unique pizza for your taste with a diverse selection of ingredients.
+        </p>
+        <p><a class="btn btn-default" onclick='window.location = "@Url.Action("PizzaConstructor", "Ingredients") ";'>Custom pizza constructor &raquo;</a></p>
+        <br />
+    </div>
+    <div class="col-md-4">
+        <h2>About us</h2>
+        <p>Working hours from 10:00 till 22:00.
+           Feedback: support@bellissimopizza.org</p>
+        <p><a class="btn btn-default" onclick='window.location = "@Url.Action("About", "Home") ";'>About pizzeria &raquo;</a></p>
+        <br />
+    </div>
+</div>

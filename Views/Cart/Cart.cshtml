@@ -1,0 +1,58 @@
+﻿@model WebPizza.Models.CartIndexViewModel
+@{
+    ViewBag.Title = "Cart";
+}
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+</style>
+<h2>Корзина</h2>
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Количество</th>
+            <th>Наименование</th>
+            <th class="text-right">Цена</th>
+            <th class="text-right">Сумма</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-left">@line.Products.ProductName</td>
+                <td class="text-right">@line.Products.ProductPrice.ToString("# руб")</td>
+                <td class="text-right">@((line.Quantity * line.Products.ProductPrice).ToString("# руб"))</td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                        @Html.Hidden("prodId", line.Products.ProductID)
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input class="btn btn-sm btn-warning" type="submit" value="Удалить" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Итого:</td>
+            <td class="text-right">
+                @Model.Cart.ComputeTotalValue().ToString("# руб")
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Продолжить покупки</a>
+    @using (Html.BeginForm("AddToOrder", "Cart"))
+    {
+        @Html.Hidden("user", User.Identity.Name)
+        <input class="btn btn-primary" type="submit" value="Оформить заказ" />
+    }
+</div>
+
+

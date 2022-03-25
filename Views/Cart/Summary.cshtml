@@ -1,0 +1,17 @@
+﻿@model WebPizza.Models.Cart
+
+@{
+    ViewBag.Title = "Summary";
+}
+
+<div class="navbar-right">
+    @Html.ActionLink("Cart", "CartView", "Cart",
+    new { returnUrl = Request.Url.PathAndQuery },
+    new { @class = "btn btn-default navbar-btn" })
+</div>
+
+<div class="navbar-text navbar-right">
+    <b>Total</b>
+
+    @Model.ComputeTotalValue().ToString("# rub ")
+</div>

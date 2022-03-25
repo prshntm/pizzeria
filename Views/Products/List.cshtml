@@ -1,0 +1,28 @@
+﻿@using WebPizza.Models
+@model WebPizza.Models.ProductsListViewModel
+@using WebPizza.HtmlHelpers
+
+@{
+    ViewBag.Title = "List";
+}
+
+
+<div class="row panel jumbotron">
+    <h1>Menu</h1>
+    <hr />
+    <div id="genres" class="col-xs-3">
+        @Html.Action("Menu", "Categories")
+    </div>
+    <div class="col-xs-8">
+        @foreach (var prod in Model.Product)
+        {
+            @Html.Partial("ProdSummary", prod)
+        }
+    </div>
+</div>
+<div class="jumbotron">
+    <div class="btn-group pull-right">
+        @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, category = Model.CurrentCategory }))
+    </div>
+    <br />
+</div>

@@ -1,0 +1,72 @@
+﻿@model WebPizza.Models.PizzaConstructorIndexViewModel
+
+@{
+    ViewBag.Title = "PizzaConstructorView";
+}
+
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+
+    .fig {
+        text-align: center; /* Выравнивание по центру */
+    }
+</style>
+@ViewBag.Img
+<p class="fig">
+    <img src='@Url.Action("images")' alt="Ваша пицца" />
+</p>
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Amount</th>
+            <th>Ingredient</th>
+            <th class="text-right">Price</th>
+            <th class="text-right">Sum</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="text-left">1</td>
+            <td class="text-left">Pizza base</td>
+            <td class="text-right">150 rub</td>
+            <td class="text-right">150 rub</td>
+        </tr>
+        @foreach (var line in Model.PizzaConstructor.Lines)
+        {
+            <tr>
+                <td class="text-left">@line.Quantity</td>
+                <td class="text-left">@line.Ingredients.IngredientName</td>
+                <td class="text-right">@line.Ingredients.IngredientPrice.ToString("# rub")</td>
+                <td class="text-right">@((line.Quantity * line.Ingredients.IngredientPrice).ToString("# rub"))</td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "CustomPizza"))
+                    {
+                        @Html.Hidden("ingId", line.Ingredients.IngredientID)
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input class="btn btn-sm btn-warning" type="submit" value="Remove" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total:</td>
+            <td class="text-right">
+                @Model.PizzaConstructor.ComputeTotalValue().ToString("# rub")
+            </td>
+            <td>
+                @using (Html.BeginForm("AddPizzaToCart", "Cart", new { cost = Model.PizzaConstructor.ComputeTotalValue().ToString() }))
+                    
+                {
+                    <div class="pull-right">
+                        @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                        <input type="submit" class="btn btn-success" value="Add to cart" />
+                    </div>
+                }
+            </td>
+        </tr>
+    </tfoot>
+</table>

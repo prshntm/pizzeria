@@ -1,0 +1,635 @@
+C:\Users\Tamara\source\repos\WebPizza\bin\WebPizza.dll.config
+C:\Users\Tamara\source\repos\WebPizza\bin\WebPizza.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\WebPizza.pdb
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csc.exe
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csc.exe.config
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csc.rsp
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csi.exe
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csi.exe.config
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\csi.rsp
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.AppContext.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Console.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Net.Http.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\vbc.exe
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\vbc.exe.config
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\vbc.rsp
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tamara\source\repos\WebPizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tamara\source\repos\WebPizza\bin\Antlr3.Runtime.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\EntityFramework.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\EntityFramework.SqlServer.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Newtonsoft.Json.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\Owin.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Helpers.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Mvc.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Optimization.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Razor.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\WebGrease.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Helpers.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Mvc.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Optimization.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.Razor.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Newtonsoft.Json.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Antlr3.Runtime.pdb
+C:\Users\Tamara\source\repos\WebPizza\bin\EntityFramework.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\EntityFramework.SqlServer.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\EntityFramework.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Tamara\source\repos\WebPizza\obj\Debug\WebPizza.csprojAssemblyReference.cache
+C:\Users\Tamara\source\repos\WebPizza\obj\Debug\WebPizza.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\source\repos\WebPizza\obj\Debug\WebPizza.csproj.CopyComplete
+C:\Users\Tamara\source\repos\WebPizza\obj\Debug\WebPizza.dll
+C:\Users\Tamara\source\repos\WebPizza\obj\Debug\WebPizza.pdb
+E:\Windows Directories\Desktop\WebPizza\bin\WebPizza.dll.config
+E:\Windows Directories\Desktop\WebPizza\bin\WebPizza.dll
+E:\Windows Directories\Desktop\WebPizza\bin\WebPizza.pdb
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csc.exe
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csc.exe.config
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csc.rsp
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csi.exe
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csi.exe.config
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\csi.rsp
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.AppContext.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Collections.Immutable.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Console.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Globalization.Calendars.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.IO.Compression.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.IO.FileSystem.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Net.Http.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Net.Sockets.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Reflection.Metadata.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.ValueTuple.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Xml.XPath.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\vbc.exe
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\vbc.exe.config
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\vbc.rsp
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\VBCSCompiler.exe
+E:\Windows Directories\Desktop\WebPizza\bin\roslyn\VBCSCompiler.exe.config
+E:\Windows Directories\Desktop\WebPizza\bin\Antlr3.Runtime.dll
+E:\Windows Directories\Desktop\WebPizza\bin\EntityFramework.dll
+E:\Windows Directories\Desktop\WebPizza\bin\EntityFramework.SqlServer.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Google.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Web.Infrastructure.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Newtonsoft.Json.dll
+E:\Windows Directories\Desktop\WebPizza\bin\Owin.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Helpers.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Mvc.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Optimization.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Razor.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.Deployment.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.Razor.dll
+E:\Windows Directories\Desktop\WebPizza\bin\WebGrease.dll
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Helpers.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Mvc.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Optimization.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.Razor.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.Deployment.xml
+E:\Windows Directories\Desktop\WebPizza\bin\System.Web.WebPages.Razor.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Newtonsoft.Json.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Antlr3.Runtime.pdb
+E:\Windows Directories\Desktop\WebPizza\bin\EntityFramework.xml
+E:\Windows Directories\Desktop\WebPizza\bin\EntityFramework.SqlServer.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Google.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Windows Directories\Desktop\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.Helpers.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.Mvc.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.Optimization.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.Razor.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.WebPages.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\EntityFramework.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Windows Directories\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Windows Directories\Desktop\WebPizza\obj\Debug\WebPizza.csprojAssemblyReference.cache
+E:\Windows Directories\Desktop\WebPizza\obj\Debug\WebPizza.csproj.CoreCompileInputs.cache
+E:\Windows Directories\Desktop\WebPizza\obj\Debug\WebPizza.csproj.CopyComplete
+E:\Windows Directories\Desktop\WebPizza\obj\Debug\WebPizza.dll
+E:\Windows Directories\Desktop\WebPizza\obj\Debug\WebPizza.pdb
+E:\WebPizza\bin\WebPizza.dll.config
+E:\WebPizza\bin\WebPizza.dll
+E:\WebPizza\bin\WebPizza.pdb
+E:\WebPizza\bin\roslyn\csc.exe
+E:\WebPizza\bin\roslyn\csc.exe.config
+E:\WebPizza\bin\roslyn\csc.rsp
+E:\WebPizza\bin\roslyn\csi.exe
+E:\WebPizza\bin\roslyn\csi.exe.config
+E:\WebPizza\bin\roslyn\csi.rsp
+E:\WebPizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebPizza\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WebPizza\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WebPizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebPizza\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WebPizza\bin\roslyn\System.AppContext.dll
+E:\WebPizza\bin\roslyn\System.Collections.Immutable.dll
+E:\WebPizza\bin\roslyn\System.Console.dll
+E:\WebPizza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\WebPizza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WebPizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WebPizza\bin\roslyn\System.Globalization.Calendars.dll
+E:\WebPizza\bin\roslyn\System.IO.Compression.dll
+E:\WebPizza\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\WebPizza\bin\roslyn\System.IO.FileSystem.dll
+E:\WebPizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WebPizza\bin\roslyn\System.Net.Http.dll
+E:\WebPizza\bin\roslyn\System.Net.Sockets.dll
+E:\WebPizza\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebPizza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\WebPizza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WebPizza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WebPizza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WebPizza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WebPizza\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WebPizza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\WebPizza\bin\roslyn\System.ValueTuple.dll
+E:\WebPizza\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WebPizza\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WebPizza\bin\roslyn\System.Xml.XPath.dll
+E:\WebPizza\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WebPizza\bin\roslyn\vbc.exe
+E:\WebPizza\bin\roslyn\vbc.exe.config
+E:\WebPizza\bin\roslyn\vbc.rsp
+E:\WebPizza\bin\roslyn\VBCSCompiler.exe
+E:\WebPizza\bin\roslyn\VBCSCompiler.exe.config
+E:\WebPizza\bin\Antlr3.Runtime.dll
+E:\WebPizza\bin\EntityFramework.dll
+E:\WebPizza\bin\EntityFramework.SqlServer.dll
+E:\WebPizza\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebPizza\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebPizza\bin\Microsoft.Owin.dll
+E:\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.Google.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebPizza\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebPizza\bin\Microsoft.Web.Infrastructure.dll
+E:\WebPizza\bin\Newtonsoft.Json.dll
+E:\WebPizza\bin\Owin.dll
+E:\WebPizza\bin\System.Web.Helpers.dll
+E:\WebPizza\bin\System.Web.Mvc.dll
+E:\WebPizza\bin\System.Web.Optimization.dll
+E:\WebPizza\bin\System.Web.Razor.dll
+E:\WebPizza\bin\System.Web.WebPages.Deployment.dll
+E:\WebPizza\bin\System.Web.WebPages.dll
+E:\WebPizza\bin\System.Web.WebPages.Razor.dll
+E:\WebPizza\bin\WebGrease.dll
+E:\WebPizza\bin\EntityFramework.xml
+E:\WebPizza\bin\EntityFramework.SqlServer.xml
+E:\WebPizza\bin\System.Web.Helpers.xml
+E:\WebPizza\bin\System.Web.Mvc.xml
+E:\WebPizza\bin\System.Web.Optimization.xml
+E:\WebPizza\bin\System.Web.Razor.xml
+E:\WebPizza\bin\System.Web.WebPages.xml
+E:\WebPizza\bin\System.Web.WebPages.Deployment.xml
+E:\WebPizza\bin\System.Web.WebPages.Razor.xml
+E:\WebPizza\bin\Newtonsoft.Json.xml
+E:\WebPizza\bin\Antlr3.Runtime.pdb
+E:\WebPizza\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebPizza\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebPizza\bin\Microsoft.Owin.xml
+E:\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.Google.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebPizza\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebPizza\bin\ru\EntityFramework.resources.dll
+E:\WebPizza\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\WebPizza\bin\ru\System.Web.Helpers.resources.dll
+E:\WebPizza\bin\ru\System.Web.Mvc.resources.dll
+E:\WebPizza\bin\ru\System.Web.Optimization.resources.dll
+E:\WebPizza\bin\ru\System.Web.Razor.resources.dll
+E:\WebPizza\bin\ru\System.Web.WebPages.resources.dll
+E:\WebPizza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\WebPizza\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\WebPizza\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\WebPizza\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\WebPizza\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\WebPizza\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\WebPizza\obj\Debug\WebPizza.csprojAssemblyReference.cache
+E:\WebPizza\obj\Debug\WebPizza.csproj.CoreCompileInputs.cache
+E:\WebPizza\obj\Debug\WebPizza.csproj.CopyComplete
+E:\WebPizza\obj\Debug\WebPizza.dll
+E:\WebPizza\obj\Debug\WebPizza.pdb
+D:\учёба\WebPizza\bin\WebPizza.dll.config
+D:\учёба\WebPizza\bin\WebPizza.dll
+D:\учёба\WebPizza\bin\WebPizza.pdb
+D:\учёба\WebPizza\bin\roslyn\csc.exe
+D:\учёба\WebPizza\bin\roslyn\csc.exe.config
+D:\учёба\WebPizza\bin\roslyn\csc.rsp
+D:\учёба\WebPizza\bin\roslyn\csi.exe
+D:\учёба\WebPizza\bin\roslyn\csi.exe.config
+D:\учёба\WebPizza\bin\roslyn\csi.rsp
+D:\учёба\WebPizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\учёба\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\учёба\WebPizza\bin\roslyn\Microsoft.Managed.Core.targets
+D:\учёба\WebPizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\учёба\WebPizza\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\учёба\WebPizza\bin\roslyn\System.AppContext.dll
+D:\учёба\WebPizza\bin\roslyn\System.Collections.Immutable.dll
+D:\учёба\WebPizza\bin\roslyn\System.Console.dll
+D:\учёба\WebPizza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\учёба\WebPizza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\учёба\WebPizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\учёба\WebPizza\bin\roslyn\System.Globalization.Calendars.dll
+D:\учёба\WebPizza\bin\roslyn\System.IO.Compression.dll
+D:\учёба\WebPizza\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\учёба\WebPizza\bin\roslyn\System.IO.FileSystem.dll
+D:\учёба\WebPizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\учёба\WebPizza\bin\roslyn\System.Net.Http.dll
+D:\учёба\WebPizza\bin\roslyn\System.Net.Sockets.dll
+D:\учёба\WebPizza\bin\roslyn\System.Reflection.Metadata.dll
+D:\учёба\WebPizza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\учёба\WebPizza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\учёба\WebPizza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\учёба\WebPizza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\учёба\WebPizza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\учёба\WebPizza\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\учёба\WebPizza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\учёба\WebPizza\bin\roslyn\System.ValueTuple.dll
+D:\учёба\WebPizza\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\учёба\WebPizza\bin\roslyn\System.Xml.XmlDocument.dll
+D:\учёба\WebPizza\bin\roslyn\System.Xml.XPath.dll
+D:\учёба\WebPizza\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\учёба\WebPizza\bin\roslyn\vbc.exe
+D:\учёба\WebPizza\bin\roslyn\vbc.exe.config
+D:\учёба\WebPizza\bin\roslyn\vbc.rsp
+D:\учёба\WebPizza\bin\roslyn\VBCSCompiler.exe
+D:\учёба\WebPizza\bin\roslyn\VBCSCompiler.exe.config
+D:\учёба\WebPizza\bin\Antlr3.Runtime.dll
+D:\учёба\WebPizza\bin\EntityFramework.dll
+D:\учёба\WebPizza\bin\EntityFramework.SqlServer.dll
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.Core.dll
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\учёба\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Cookies.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Facebook.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Google.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.OAuth.dll
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Twitter.dll
+D:\учёба\WebPizza\bin\Microsoft.Web.Infrastructure.dll
+D:\учёба\WebPizza\bin\Newtonsoft.Json.dll
+D:\учёба\WebPizza\bin\Owin.dll
+D:\учёба\WebPizza\bin\System.Web.Helpers.dll
+D:\учёба\WebPizza\bin\System.Web.Mvc.dll
+D:\учёба\WebPizza\bin\System.Web.Optimization.dll
+D:\учёба\WebPizza\bin\System.Web.Razor.dll
+D:\учёба\WebPizza\bin\System.Web.WebPages.Deployment.dll
+D:\учёба\WebPizza\bin\System.Web.WebPages.dll
+D:\учёба\WebPizza\bin\System.Web.WebPages.Razor.dll
+D:\учёба\WebPizza\bin\WebGrease.dll
+D:\учёба\WebPizza\bin\EntityFramework.xml
+D:\учёба\WebPizza\bin\EntityFramework.SqlServer.xml
+D:\учёба\WebPizza\bin\System.Web.Helpers.xml
+D:\учёба\WebPizza\bin\System.Web.Mvc.xml
+D:\учёба\WebPizza\bin\System.Web.Optimization.xml
+D:\учёба\WebPizza\bin\System.Web.Razor.xml
+D:\учёба\WebPizza\bin\System.Web.WebPages.xml
+D:\учёба\WebPizza\bin\System.Web.WebPages.Deployment.xml
+D:\учёба\WebPizza\bin\System.Web.WebPages.Razor.xml
+D:\учёба\WebPizza\bin\Newtonsoft.Json.xml
+D:\учёба\WebPizza\bin\Antlr3.Runtime.pdb
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.Core.xml
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\учёба\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Facebook.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Cookies.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Google.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.Twitter.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\учёба\WebPizza\bin\Microsoft.Owin.Security.OAuth.xml
+D:\учёба\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\учёба\WebPizza\bin\ru\EntityFramework.resources.dll
+D:\учёба\WebPizza\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.Helpers.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.Mvc.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.Optimization.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.Razor.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.WebPages.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\учёба\WebPizza\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\учёба\WebPizza\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\учёба\WebPizza\obj\Debug\WebPizza.csprojAssemblyReference.cache
+D:\учёба\WebPizza\obj\Debug\WebPizza.csproj.CoreCompileInputs.cache
+D:\учёба\WebPizza\obj\Debug\WebPizza.csproj.CopyComplete
+D:\учёба\WebPizza\obj\Debug\WebPizza.dll
+D:\учёба\WebPizza\obj\Debug\WebPizza.pdb
+C:\Users\Tamara\Desktop\WebPizza\bin\WebPizza.dll.config
+C:\Users\Tamara\Desktop\WebPizza\bin\WebPizza.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\WebPizza.pdb
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csc.exe
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csc.exe.config
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csc.rsp
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csi.exe
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csi.exe.config
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\csi.rsp
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.AppContext.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Console.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Net.Http.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\vbc.exe
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\vbc.exe.config
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\vbc.rsp
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tamara\Desktop\WebPizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tamara\Desktop\WebPizza\bin\Antlr3.Runtime.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\EntityFramework.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\EntityFramework.SqlServer.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Newtonsoft.Json.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\Owin.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Helpers.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Mvc.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Optimization.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Razor.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\WebGrease.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\EntityFramework.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\EntityFramework.SqlServer.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Helpers.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Mvc.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Optimization.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.Razor.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Newtonsoft.Json.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Antlr3.Runtime.pdb
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\EntityFramework.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Tamara\Desktop\WebPizza\obj\Debug\WebPizza.csprojAssemblyReference.cache
+C:\Users\Tamara\Desktop\WebPizza\obj\Debug\WebPizza.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\WebPizza\obj\Debug\WebPizza.csproj.CopyComplete
+C:\Users\Tamara\Desktop\WebPizza\obj\Debug\WebPizza.dll
+C:\Users\Tamara\Desktop\WebPizza\obj\Debug\WebPizza.pdb
